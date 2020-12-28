@@ -1,0 +1,13 @@
+*.mdp
+*.htmls
+*.tex
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.tmp
+*-tmp.html
+*.pdf
